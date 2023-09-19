@@ -2,10 +2,10 @@
 
 const process = require('process')
 const {argv} = process;
+const sumar = require('./sumar')
+
 function calculadora (comando) {
     
-
-
 switch (comando) {
     case "sumar":
         
