@@ -26,4 +26,4 @@ switch (comando) {
         break;
 }
 }
-console.log(calculadora(argv[2]));
+console.log(calculadora(argv[2],argv[3],argv[4]));
